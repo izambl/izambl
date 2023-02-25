@@ -1,4 +1,4 @@
-### Hi there 👋
+I am a seasoned software architect with ~20 years of experience in designing and implementing scalable, robust, and secure systems. I have expertise in various technologies, including Typescript, Ruby, etc., and have a proven track record of successfully delivering complex projects.
 
 <!--
 **izambl/izambl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
