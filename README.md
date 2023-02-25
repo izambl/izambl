@@ -1,5 +1,12 @@
 I am a seasoned software architect with ~20 years of experience in designing and implementing scalable, robust, and secure systems. I have expertise in various technologies, including Typescript, Ruby, etc., and have a proven track record of successfully delivering complex projects.
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/izambl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/izambl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/izambl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+</p>
+
 <!--
 **izambl/izambl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
