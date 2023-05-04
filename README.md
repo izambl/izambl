@@ -1,4 +1,8 @@
-I am a seasoned software architect with ~20 years of experience in designing and implementing scalable, robust, and secure systems. I have expertise in various technologies, including Typescript, Ruby, etc., and have a proven track record of successfully delivering complex projects.
+As a skilled developer with over 15 years of experience, I have a strong track record of working collaboratively with teams to design and implement high-quality software solutions. Throughout my career, I have honed my expertise in a wide range of programming languages and frameworks.
+
+As a self-taught and quick learner, I thrive on experimenting with new technologies and finding innovative ways to implement them for the best possible user experience. My commitment to constantly learning and growing in my field has helped me stay on top of industry trends and deliver cutting-edge solutions.
+
+Whether I am developing a new software system from scratch or working to improve an existing one, I always prioritize user experience and strive to deliver intuitive and efficient solutions. My attention to detail and ability to think creatively have helped me to excel in my field, and I am constantly seeking out new challenges to push myself further.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
